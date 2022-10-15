@@ -5,7 +5,11 @@ const Navbar = () => {
     <div>
       <nav className="navbar fixed-top navbar-expand-lg bg-dark">
         <div className="container-fluid">
-          <Link className="navbar-brand" style={{ color: "#fff" }} to="/">
+          <Link
+            className="navbar-brand fs-4 fw-bold"
+            style={{ color: "#fff" }}
+            to="/"
+          >
             News Monkey
           </Link>
           <button
@@ -21,7 +25,7 @@ const Navbar = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+            <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item">
                 <Link
                   className="nav-link active"

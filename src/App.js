@@ -23,7 +23,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="general"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="general"
               />
@@ -37,7 +37,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="business"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="business"
               />
@@ -51,7 +51,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="entertainment"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="entertainment"
               />
@@ -65,7 +65,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="health"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="health"
               />
@@ -79,7 +79,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="science"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="science"
               />
@@ -93,7 +93,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="sports"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="sports"
               />
@@ -107,7 +107,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="technology"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="technology"
               />
@@ -121,7 +121,7 @@ const App = () => {
                 setProgress={setProgress}
                 apiKey={apiKey}
                 key="general"
-                pageSize={5}
+                pageSize={10}
                 country="us"
                 category="general"
               />
