@@ -1,71 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# News-Monkey-App # News-Monkey-App
+News App using API Integrations and other React libraries. It gives you
+latest news headlines from different categories. You can choose from
+different categories or can read trending news of the day.
+![Screenshot 2022-10-12 at 21-24-20 News Monkey - General](https://user-images.githubusercontent.com/104522504/196534131-042258c2-2352-4e91-8ab2-aa3e326ddeb1.png)
+![Screenshot 2022-10-12 at 21-24-35 News Monkey - Business](https://user-images.githubusercontent.com/104522504/196534322-e40cc7ed-f1a5-4d0b-b1ba-d0c16fb67fd1.png)
+![Screenshot 2022-10-12 at 21-24-49 News Monkey - Entertainment](https://user-images.githubusercontent.com/104522504/196534526-b5672bf1-73ed-4a64-9a11-30d4719ca9d9.png)
+![Screenshot 2022-10-12 at 21-25-05 News Monkey - Health](https://user-images.githubusercontent.com/104522504/196534750-818c5b17-4bc9-45f0-b155-5b291c7ff275.png)
+![Screenshot 2022-10-12 at 21-25-16 News Monkey - Science](https://user-images.githubusercontent.com/104522504/196534934-ec231dc7-f47d-4f39-af4a-e8831006a130.png)
+![Screenshot 2022-10-12 at 21-25-30 News Monkey - Sports](https://user-images.githubusercontent.com/104522504/196535095-b7790878-0768-4872-983b-c898545ca738.png)
+![Screenshot 2022-10-12 at 21-26-38 News Monkey - Technology](https://user-images.githubusercontent.com/104522504/196535323-198bba2c-b633-4cb2-a336-3474f22f5432.png)
